@@ -65,7 +65,7 @@ onscroll = function() {
     })
 }
 /*
-// Cache selectors
+// OOOOOOO Some Tryouts OOOOOOO
 var lastId,
  topMenu = $("navbar__menu"),
  topMenuHeight = topMenu.outerHeight()+1,
