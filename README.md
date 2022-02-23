@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [About Project](#About_Project)
-* [Used Programming Languages](#Used_Programming_Languages)
+* [About Project](#About Project)
+* [Used Programming Languages](#Used Programming Languages)
 * 
 * ## About Project:
 * A simple Landing page of a website with a navigation interactive menu and go up button.
